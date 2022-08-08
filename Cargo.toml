@@ -1,5 +1,5 @@
 [package]
-name = "port_watch"
+name = "stm32-gpio-monitor"
 version = "0.1.0"
 edition = "2021"
 
